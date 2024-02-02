@@ -1,1 +1,1 @@
-# Gestione_File_Nucciarelli_Giorgio
+Questo è il progetto GestioneFile
